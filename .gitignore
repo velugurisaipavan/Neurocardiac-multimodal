@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+data/
+cache/
+runs/
+*.npy
+*.npz
+*.pt
+*.fif
+*.log
+.DS_Store

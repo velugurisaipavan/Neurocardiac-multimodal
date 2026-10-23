@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "AI-Enhanced Multimodal Framework for Early Diagnosis of Neuro-Cardiac Disorders — starter reconstruction"
+type: software
+version: 0.1.0
+license: MIT
+authors:
+  - family-names: Veluguri
+    given-names: Sai Pavan
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: Veluguri
+      given-names: Sai Pavan
+  title: "AI-Enhanced Multimodal Framework for Early Diagnosis of Neuro-Cardiac Disorders"
+  year: 2025
+  conference:
+    name: "2025 IEEE 3rd Global Conference on Wireless Computing and Networking (GCWCN)"
+  doi: "10.1109/GCWCN66157.2025.11448396"

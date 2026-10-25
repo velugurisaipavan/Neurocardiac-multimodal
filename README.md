@@ -6,7 +6,7 @@ Sai Pavan Veluguri — *2025 IEEE 3rd Global Conference on Wireless Computing an
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FGCWCN66157.2025.11448396-blue)](https://doi.org/10.1109/GCWCN66157.2025.11448396)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> **Research use only.** Not for diagnosis, screening, treatment, alerts, or deployment to patients. No patient data or trained weights are included; results come from training on your own paired cohort.
+
 
 ## Idea
 
